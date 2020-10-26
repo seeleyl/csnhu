@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+#Reflection
 
-You can use the [editor on GitHub](https://github.com/seeleyl/csnhu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My time in SNHU’s Bachelor of Science in Computer Science program has been an adventure.  I entered into the program with just a vague inkling of direction and have reached the end with a passion for security as well as a lot of interest in data analytics.  Of particular interest has been my time in the Experiential Learning class which followed along with the Test-Out Security Pro material as well as participation in the intercollegiate National Cyber League, where I started as a player not thinking I knew much beyond making sure the anti-virus was running to training and captaining teams for the school.  This led to being one of the founding members of the [Off the Rails](https://offtherailspod.github.io/) security podcast and blog as well as now a player ambassador and blog writer for the National Cyber League itself at [CryptoKait](https://cryptokait.com/author/ghostinth3machine/).  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Most of my life, I have worked rather lone-wolf jobs that largely involved working alone.  Classes on version control and Git are interesting in demonstrating how teams can work in a programming environment.  My time with the school’s competitive security team though has led me to actual team environments and even a leadership position within the group as trainer and captain.  This has involved leading teams within the National Cyber League (NCL) event, as well as hosting training webinars for the group, writing training materials (much of which contains proprietary information required to stay behind a school login at [SNHUConnect](https://students.snhuconnect.com/#!streams/9bec8454-d676-4ee8-b408-3006edd76e07/files), as well as presenting security webinars for the school chapter of the Association for Computing Machinery (ACM).  The other captains and I joined together to create the Off the Rails podcast as well as a venue to showcase a collegiate perspective on the computing and security world.  The individual and team score reports from my first season as well as the Spring 2020 season of the NCL are included to demonstrate growth in both individual and team games over time.
 
-### Markdown
+One of the advantages of being a trainer is it involves taking complex technical details and breaking it down into plain English and explaining it in relatable ways.  Teaching and training forces one to grok the material well enough to be able to explain things simple enough to be understood.  This is especially important in technical fields.  This is also very useful in talking up the ladder as well as vested stakeholders may not have the necessary technical expertise to understand what is being reported or even what they are actually wanting.  Language and ideas need to be expressed at equivalent levels between parties to ensure understanding.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The [Seeley daychecker.py](./Seeley\ daychecker.py) file is a final project from IT145-Introduction to Java reengineered into Python.  This project is to take a user input day of the week and the number of days in the future to look, and then to report back what day of the week the target day was, as well as the next two days and the day before.  (./Authentication.py) was written new for this portfolio to demonstrate using encryption algorithms in a login mechanism.  Both work as examples of engineering, though Authentication is entirely focused on security.  Unfortunately, I could not get a working mongo/node.js environment to be able to complete the planned database project (details in Databases.docx).  As an alternative, I included [Bubba Bump Analysis](./Bubba\ Gump\ Analysis.docx), the final project from DAT-220 Fundamentals of Data Mining.  The JMP environment used for that class has long since expired to be able to demonstrate anything new, but I am especially proud of that project and the analyses that can be made even with analyzing a very limited dataset.  
 
-```markdown
-Syntax highlighted code block
+I will concede I am not the strongest programmer.  There is much to learn and much to practice, but the skills will follow.  Security is a passion, demonstrable through the years of involvement in the CyberSNHUpers, NCL, and the podcast.  In the end, I believe this all demonstrates someone highly analytical, technology-oriented, and has the soft skills to take these things and explain them in laymen and noob terms. 
 
-# Header 1
-## Header 2
-### Header 3
+Thank you.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seeleyl/csnhu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
